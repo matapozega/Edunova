@@ -1,0 +1,20 @@
+body div:first-child div{
+	text-align: center;
+}
+
+.callout{
+	min-height: 300px;
+}
+
+@font-face {
+  font-family: 'Bungee';
+  src:  url('../fonts/Bungee-Regular.ttf')  format('truetype')
+}
+
+.mojfont{
+	font-family: Bungee;
+}
+
+.siroko{
+	width: 100%;
+}
